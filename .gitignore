@@ -1,15 +1,14 @@
 # Compiled class file
 *.class
 
-# Netbeans specific
-core
-nbproject/*
-!nbproject/project.properties
-!nbproject/project.xml
-
-# Ant specific
-dist/
+# NetBeans
+nbproject/private/
 build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+nbactions.xml
 
 # Log file
 *.log
