@@ -1,13 +1,13 @@
 # Compiled class file
 *.class
 
-#netbeans specific
+# Netbeans specific
 core
 nbproject/*
 !nbproject/project.properties
 !nbproject/project.xml
 
-#ant specific
+# Ant specific
 dist/
 build/
 
